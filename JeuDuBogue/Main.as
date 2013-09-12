@@ -12,7 +12,7 @@
 			// constructor code
 			trace("allo");
 			//créer un timer pour ajouter des bogues aux 2 secondes
-			vies = 10;
+			vies = 7;
 			monTimer.addEventListener(TimerEvent.TIMER, ajouterBibitte);
 			monTimer.start();
 			
